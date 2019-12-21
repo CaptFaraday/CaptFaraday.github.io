@@ -27,6 +27,12 @@ html, body {
   margin: auto;
 }
 
+.doit {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
+
 .textCenter{
 	text-align:center;
 }
